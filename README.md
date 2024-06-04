@@ -51,7 +51,7 @@ This experiment utilizes files from the `Params_test` folder.
 
 ```python
 # Change model
-model = "WPFS" # Default model
+model = "wpfs" # Default model
 # model = "fsnet" # fsnet model
 # model = "cae" # cae model
 
